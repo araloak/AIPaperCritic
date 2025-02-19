@@ -1,0 +1,7 @@
+Read the content of the paper and deeply think and analyze the following questions in your answer to argue how reasonable the methods adopted in the paper are:
+What specific methods or algorithms did this paper use to solve the problem?
+How does this paper explain the reasons for adopting this method?
+Consider whether the characteristics of this method/algorithm are suitable for solving this type of problem?
+Is there a simpler, more intuitive way to solve such problems? If there is, what are the unique advantages of the methods adopted in the paper?
+
+Take into account all the above issues to ultimately form your summary of the motivation for the method/algorithms used in the paper.

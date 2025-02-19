@@ -1,0 +1,4 @@
+Read the content of the paper, combine your correct understanding of the rich theoretical knowledge involved in the paper's methods, and deeply think and analyze the following questions in your answer to demonstrate whether each step of the methods adopted in the paper conforms to the correct theory:
+Step by step, decompose each step of the paper's method, check and reflect whether the operation of each step is based on correct premise assumptions? Are there any incorrect operations or steps that violate the basic principles of the algorithm? Is each step redundant, and can it be replaced by a simpler and more intuitive method? How closely are the connections between each step of the algorithm?
+
+Consider all the above issues and finally form your analysis and summary of the correctness of the method/algorithms used in the paper.

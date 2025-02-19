@@ -1,0 +1,5 @@
+You need to consider the following aspects to evaluate whether the writing of the paper is easy for readers to read:
+The logical consistency of the paper's writing, such as whether each section has a clear division and explanation of its logical relationship with other chapters?
+Each new module's design has detailed step-by-step explanations and design concept descriptions?
+Does the paper consistently describe the problem it aims to solve? Are there any sections that are overly simplified and difficult to understand, or overly redundant and lacking in information?
+4. Are there any grammatical errors in the English sentences of the paper (the grammatical errors should be pointed out)

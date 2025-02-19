@@ -1,0 +1,7 @@
+Read the content of the paper, and deeply think and analyze the following questions in your response to argue how effective the methods used in the paper are:
+Does the method/algorithm of this paper create a new paradigm and fundamentally solve the defects existing in previous work?
+The method/algorithm of this paper has it been significantly and stably improved compared to baselines in various scenarios in the experiments?
+Did this paper use this method to obtain some findings that break common sense in the experiment or verify some important hypotheses with experiments?
+Does the method/algorithm of this paper face significant costs in other aspects while solving the research problems it faces (such as time and space occupation)?
+
+Consider all the above issues and finally form your analysis and summary of the effectiveness of the methods/algorithms used in the paper.
