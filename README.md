@@ -1,8 +1,7 @@
 # AIPaperCritic - An Intelligent AI Paper Review Assistant 🤖📄
 
-![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2772%27%20height=%2710%27/%3e)![image](D:/software/typora/imgs/%E2%9C%A8-Open_Source_Project-blueviolet.svg+xml)![img](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2743%27%20height=%2710%27/%3e)![image](D:/software/typora/imgs/Python-3-17399502131377.8%252B-blue)
 
-Leverage large language models to offer suggestions for your paper and help you better prepare for submission! This tool leverages LLMs to conduct in-depth analysis of AI papers from multiple perspectives and fine-grained levels, and generate structured review reports. [中文README](./README_zh.md)
+Leverage large language models to offer suggestions for your paper and help you better prepare for submission! This tool leverages LLMs to conduct in-depth analysis of AI papers from multiple perspectives and fine-grained levels and generate structured review reports. [中文README](./README_zh.md)
 
 ## 🚀 Feature Highlights
 
